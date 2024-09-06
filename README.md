@@ -7,7 +7,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/tipengmods/instal-tema-by-tipeng/blob/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/tipengmods/auto-install-tema/main/install.sh)
 ```
 
 ## Features
@@ -31,6 +31,6 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Contributors ✨
 
-Copyright (C) 2023 - 2024, Foxstore, @foxstore_id.
+Copyright (C) 2023 - 2024, TipengMods, @tipengmods.
 
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
+- Created by [ FOXSTORE ](https://github.com/tipengmods)
