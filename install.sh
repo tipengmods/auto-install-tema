@@ -226,7 +226,7 @@ uninstall_theme() {
   echo -e "${BLUE}[+]                    DELETE THEME                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  bash <(curl -s https://github.com.com/tipengmods/instal-tema-by-tipeng/blob/main/install.sh)
+  bash <(curl -s https://raw.githubusercontent.com/tipengmods/auto-install-tema/main/repair.sh)
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "${GREEN}[+]                 DELETE THEME SUKSES             [+]${NC}"
