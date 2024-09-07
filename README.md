@@ -33,4 +33,4 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 Copyright (C) 2023 - 2024, TipengMods, @tipengmods.
 
-- Created by [ FOXSTORE ](https://github.com/tipengmods)
+- Created by [ TIPENG ](https://github.com/tipengmods)
